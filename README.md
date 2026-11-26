@@ -98,8 +98,8 @@ flowchart LR
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/bodongg/binary-classification.git
+cd binary-classification
 
 # 2. Install dependencies
 pip install pandas matplotlib scikit-learn jupyter
